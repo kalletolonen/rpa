@@ -1,0 +1,20 @@
+﻿Hakuarvojen syöttö Oikotielle alueesta: Helsinki alkoi 18.05 10.20.21
+Hakuarvojen syöttö Oikotielle alueesta: Raisio alkoi 18.05 10.21.09
+Hakuarvojen syöttö Oikotielle alueesta: Kaarina alkoi 18.05 10.21.44
+Hakuarvojen syöttö Oikotielle alueesta: Kaarina päättyi 18.05 10.22.10
+Alueen: Kaarina keskihintojen haku Kiinteistömaailmasta alkoi 18.05 10.22.10
+Alueen: Kaarina keskihintojen haku Kiinteistömaailmasta päättyi 18.05 10.22.22
+Data homogenisointi alueelta: Kaarina alkoi 18.05 10.22.22
+Data homogenisointi alueelta: Kaarina päättyi 18.05 10.22.23
+Hakuarvojen syöttö Oikotielle alueesta: Turku alkoi 18.05 10.23.49
+Hakuarvojen syöttö Oikotielle alueesta: Turku päättyi 18.05 10.28.24
+Alueen: Turku keskihintojen haku Kiinteistömaailmasta alkoi 18.05 10.28.24
+Alueen: Turku keskihintojen haku Kiinteistömaailmasta päättyi 18.05 10.32.17
+Data homogenisointi alueelta: Turku alkoi 18.05 10.32.17
+Data homogenisointi alueelta: Turku päättyi 18.05 10.32.19
+Hakuarvojen syöttö Oikotielle alueesta: Lieto alkoi 18.05 10.32.19
+Hakuarvojen syöttö Oikotielle alueesta: Lieto päättyi 18.05 10.35.19
+Alueen: Lieto keskihintojen haku Kiinteistömaailmasta alkoi 18.05 10.35.19
+Alueen: Lieto keskihintojen haku Kiinteistömaailmasta päättyi 18.05 10.37.42
+Data homogenisointi alueelta: Lieto alkoi 18.05 10.37.42
+Data homogenisointi alueelta: Lieto päättyi 18.05 10.37.44
